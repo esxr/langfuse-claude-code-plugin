@@ -182,6 +182,10 @@ Start a new Claude Code session, send a prompt, and confirm exactly one trace pe
 tail -f ~/.claude/state/langfuse_hook.log
 ```
 
+## Credits
+
+Originally created by [pdhoolia](https://github.com/pdhoolia). Forked from [pdhoolia/langfuse-claude-code-plugin](https://github.com/pdhoolia/langfuse-claude-code-plugin).
+
 ## License
 
 MIT
